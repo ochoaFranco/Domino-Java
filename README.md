@@ -16,9 +16,9 @@ Se debe ejecutar primero la AppServidor y luego levantar tantos AppCliente como 
 
 ## Screenshots
 
-![App Screenshot](https://github.com/ochoaFranco/Domino-Java/pictures/game.png)
-![App Screenshot](https://github.com/ochoaFranco/Domino-Java/pictures/login.png)
-![App Screenshot](https://github.com/ochoaFranco/Domino-Java/pictures/ranking.png)
+![App Screenshot](https://github.com/ochoaFranco/Domino-Java/blob/main/pictures/game.png)
+![App Screenshot](https://github.com/ochoaFranco/Domino-Java/blob/main/pictures/login.png)
+![App Screenshot](https://github.com/ochoaFranco/Domino-Java/blob/main/pictures/ranking.png)
 
 
 ## 🛠 Skills y patrones de diseño
